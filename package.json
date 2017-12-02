@@ -1,0 +1,22 @@
+{
+  "name": "coolemit",
+  "version": "1.0.0",
+  "description": "coolemit is a simple events subscribe / publish library",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "keywords": [
+    "JavaScript",
+    "Subscribe",
+    "Publish",
+    "library",
+    "simple"
+  ],
+  "author": "fengyu",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
