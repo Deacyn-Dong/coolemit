@@ -2,7 +2,7 @@
 
 一个小巧的发布/订阅库，使用JavaScript语言实现
 
-# 用途
+## 用途
 
 解决一些通知或传参问题
 
@@ -23,11 +23,11 @@ API文档中，只能配置后退层级，不能带参数，这时可以使用co
 
 在一些多级嵌套的组件或者没有父子关联的组件中，使用coolemit建立通道，进行传参
 
-# 用途
+## 优势
 
 轻巧（不带注释100+行），便捷（迅速解决问题），鲜活（提供ES5和ES6两个版本）
 
-# 文档
+## 文档
 
 1. 引用
 
@@ -63,6 +63,6 @@ coolemit.un('test_event'); // cancel all events named `test_event`.
 coolemit.un(test_callback); // cancel all the `test_callback` functions.
 ```
 
-# LICENSE
+## LICENSE
 
 MIT
